@@ -1,0 +1,6 @@
+twine
+pytest
+pytest-cov
+flake8
+pylint
+mypy
